@@ -1,0 +1,29 @@
+#titre {
+	color : blue;
+}
+body {
+background-color:powderblue;
+position: absolute;
+}
+#paragraphe{
+float: left;
+  width: 50%
+
+
+}
+#lien{
+padding-left: 150px;
+}
+#image{
+	float: right;
+	padding-right: 250px;
+
+  width: 20%
+
+}
+#joueurs, th, td {
+  border: 1px solid;
+}
+h3,h2 {
+	color: green;
+}
